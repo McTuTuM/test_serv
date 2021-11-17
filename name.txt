@@ -1,0 +1,7 @@
+admin:12345
+user:12321
+123:abc
+login:password
+Костя:12345
+qwerty:12345
+Вася:55555
